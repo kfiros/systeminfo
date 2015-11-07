@@ -7,7 +7,7 @@ Windows systems.
 USAGE: systeminfo
 
 # Output Example 
-![SystemInfo](http://pasteboard.co/1XFYT1rJ.png "SystemInfo")
+![SystemInfo](http://s3.postimg.org/ter021sxv/gitsysteminfo.png "SystemInfo")
 
 # Author
 Kfir Shtober (Kfiros) 2015
